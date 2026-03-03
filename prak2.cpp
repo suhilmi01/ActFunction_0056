@@ -1,5 +1,5 @@
 //library
-#include<iostream>
+#include <iostream>
 using namespace std;
 //deklarasi global
     float p,l;
@@ -34,6 +34,7 @@ int main()
     cout << "hasil penjumlahan = " << jumlah(5,6,9);
 
 }//selesai
+
 
 
 
