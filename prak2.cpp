@@ -13,7 +13,7 @@ void input ()
     cin >> l;
 }
 
-float luaspersegi(float x, float y)
+float luaspersegi (float x, float y)
 {
     return x*y;
 }
@@ -34,6 +34,7 @@ int main()
     cout << "hasil penjumlahan = " << jumlah(5,6,9);
 
 }//selesai
+
 
 
 
