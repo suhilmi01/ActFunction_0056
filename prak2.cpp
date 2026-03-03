@@ -18,7 +18,8 @@ float luaspersegi(float x, float y)
     return x*y;
 }
 
-int jumlah(int a, int b, int c){
+int jumlah(int a, int b, int c)
+{
     return a*b*c;
 }
 
@@ -33,4 +34,5 @@ int main()
     cout << "hasil penjumlahan = " << jumlah(5,6,9);
 
 }//selesai
+
 
