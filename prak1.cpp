@@ -13,7 +13,8 @@ void input()
     cin >> l;
 }
 
-float luaspersegi(){
+float luaspersegi()
+{
     return p*l;
 }
 
@@ -29,3 +30,4 @@ int main()
 
 
 }//selesai
+
