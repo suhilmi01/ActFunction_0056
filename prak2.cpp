@@ -5,7 +5,7 @@ using namespace std;
     float p,l;
 
 //implementasi prosedur & fungsi
-void input()
+void input ()
 {
     cout << "masukkan panjang : ";
     cin >> p;
@@ -34,5 +34,6 @@ int main()
     cout << "hasil penjumlahan = " << jumlah(5,6,9);
 
 }//selesai
+
 
 
